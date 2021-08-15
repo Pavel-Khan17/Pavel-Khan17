@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Pavel-Khan17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hey, It's @Pavel-Khan17 here
+- 👀 I’m interested in ...front-end web development 
+- 🌱 I’m currently learning ... JavaScript
 - 📫 Catch me  at ... pavelkhan1999@gmail.com
 
 <!---
