@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently mastering Django and Django Rest Framework for web development.<br>🤝 Need assistance understanding advanced software engineering concepts.<br>🌱 Learning Django Rest Framework to create efficient APIs.<br>👯 Looking for collaborators on open-source Python projects.<br>💬 Ask me about programming issue-solving and Django web development!<br>⚡ Fun fact: When I'm not coding, you can find me exploring new hiking trails or capturing moments through photography! <br> 📫 Catch me  at ... pavelkhan1999@gmail.com
+🔭 Currently mastering Django and Django Rest Framework for web development.<br>🤝 Need assistance understanding advanced software engineering concepts.<br>🌱 Learning Django Rest Framework to create efficient APIs.<br>👯 Looking for collaborators on open-source Python projects.<br>💬 Ask me about programming issue-solving and Django web development!<br>⚡ Fun fact: When I'm not coding, you can find me exploring new hiking trails or capturing moments through photography! <br> 📫 Catch me  at ... pavelkhan.dev@gmail.com
 
 
 ## 🌐 Socials:
