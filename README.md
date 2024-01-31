@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 
-## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAC/programmers-go-internet.gif" width="40"> &nbsp;**About me**
 - 🔭 Currently mastering Django and Django Rest Framework for web development.
 - 🌱 Learning Django Rest Framework to create efficient APIs.
 - 👯 Looking for collaborators on open-source Python projects.
