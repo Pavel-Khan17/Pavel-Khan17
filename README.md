@@ -17,6 +17,7 @@
 - 📫 Catch me  at ... pavelkhan.dev@gmail.com
 
 <br>
+<br>
 <hr>
 
 
@@ -33,8 +34,9 @@
 
 [![Advaith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavel-Khan17&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<br>
 <hr>
+
 
 ## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me !!** ️
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pavel_khan17) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pavel.khan.17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavelkhan17) 
