@@ -32,7 +32,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavel-Khan17&theme=radical&hide_border=true"/>
 </p>
 
-[![Advaith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavel-Khan17&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pavel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavel-Khan17&theme=rogue)](https://github.com/Pavel-Khan17/github-readme-activity-graph)
 
 <br>
 <hr>
